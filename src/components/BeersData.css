@@ -1,0 +1,49 @@
+.headerBar {
+  width: 100%;
+  height: 10vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  width: 20vw;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.card-img-top {
+  width: auto;
+  display: flex;
+  margin: auto;
+  height: 15vh;
+  margin-top: 10px;
+}
+
+.card-text{
+  text-align: center;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.btn {
+  margin-bottom: 3px;
+}
+
+#filterButton {
+  margin: 2em;
+}
+
+#filterButton2 {
+  margin: 2em;
+}
+
+.buttonsContainer {
+  display: flex;
+  justify-content: center;
+}
